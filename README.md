@@ -1,16 +1,23 @@
-## Hi there 👋
+## Robert Petre
 
-<!--
-**Soul-Sneezer/Soul-Sneezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Second year CS student at the University of Bucharest.
+
+<p align="left"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40">   
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="neovim" width="40" height="40">
+</p>
+
+Main interests:
+- Compilers
+- Embedded Systems
+- Operating Systems
+- Reinforcement Learning
