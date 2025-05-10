@@ -21,3 +21,6 @@ Main interests:
 - Embedded Systems
 - Operating Systems
 - Reinforcement Learning
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soul-Sneezer&layout=compact)
