@@ -23,4 +23,4 @@ Main interests:
 - Reinforcement Learning
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soul-Sneezer&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soul-Sneezer&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
